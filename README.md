@@ -1,1 +1,1 @@
-https://Meldonium1.io/rsschool-cv/cv
+https://meldonium1.github.io/rsschool-cv/cv
