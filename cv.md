@@ -1,28 +1,28 @@
 # **Kishta Matsakova**
-***
+
 ## **Contact Info**
-***
-***City:** Moscow, Russia
-***E-mail adress:** kishta.matsakova@gmail.com
-***Phone number:** +7(927)8147822
-***Telegram account:** Meldonium1
-*** 
-### **Summary**
-Personal qualities: the ability to work efficiently. Conscientiousness in work. Ability to quickly master a new software product or technology. The possession of creative abilities.The presence of the desire to work and earn.
-***
-#### **Skills:**
-***
-***Web technology:**
-    *HTML5
-    *CSS3
-***Scripting languages:**
-    *Java Script
-    *IDE:
-    *VS Code
-***Version Control:**
-    *Git
-##### **Code examples:**
-***
+
+* **City:** Moscow, Russia
+* **E-mail adress:** kishta.matsakova@gmail.com
+* **Phone number:** +7(927)8147822
+* **Telegram account:** Meldonium1
+
+## **Summary**
+Personal qualities: the ability to work efficiently, conscientiousness in work, ability to quickly master a new software product or technology, the possession of creative abilities, the presence of the desire to work and earn.
+
+## **Skills:**
+
+* **Web technology:**
+    * HTML5
+    * CSS3
+* **Scripting languages:**
+    * Java Script
+    * IDE:
+    * VS Code
+* **Version Control:**
+    * Git
+## **Code examples:**
+
 ````html
   <head>
     <meta charset="utf-8">
@@ -72,12 +72,12 @@ Personal qualities: the ability to work efficiently. Conscientiousness in work. 
   </body>
 </html>
 ````
-###### **Experience:**
-***
+## **Experience:**
+
 I passed the test and interview in Sberbank's programming School-21 and RSSchool.  At the moment I am actively developing my programming skills.
-###### **Education:**
-***
+## **Education:**
+
 VSU RPA of the Ministry of justice of Russia(2018-2023)
-###### **English:**
-***
+## **English:**
+
 Upper-Intermidiate. Had experiences of being a student of summer-school in Britain.
