@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF url(img05.gif) repeat left top;
+	font: bold Georgia, "Times New Roman", Times, serif;
+	color: rgb(96, 100, 87);
+	text-align: justify;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0;
+	padding-top: 0;
+}
+header {
+	width: 770px;
+	height: 90px;
+	margin: 0 auto;
+}
+
+header h1 {
+	margin: 0;
+	padding: 30px 0 0 20px;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-style: italic;
+	letter-spacing: -2px;
+	color: rgb(32, 34, 30);
+}
+
+header h2 {
+	padding-left: 25px;
+	font-size: 15px;
+}
+h2{
+        width: 750px;
+        margin: 2em auto 1em auto;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: left;
+}
+footer {
+	clear: both;
+	width: 700px;
+	height: 30px;
+	margin: 0 auto;
+}
+a{
+    text-align: right;
+}
